@@ -1,0 +1,8 @@
+requests
+pandas
+matplotlib
+wordcloud
+seaborn
+beautifulsoup4
+transformers
+nltk
