@@ -9,7 +9,7 @@ Este proyecto es una implementación de un análisis de sentimientos utilizando 
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas de Python: `numpy`, `pandas`, `scikit-learn`, `nltk`
+- Bibliotecas de Python: `requests`, `pandas`, `matplotlib`, `wordcloud`, `seaborn`, `beautifulsoup4`, `transformers`, `nltk`
 
 ## Instalación
 
